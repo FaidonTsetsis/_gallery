@@ -10,5 +10,4 @@ categories:
   - forms
 tags:
   - touchpad
-  - mouse
 ---
